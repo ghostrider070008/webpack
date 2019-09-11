@@ -1,0 +1,8 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ghostrider070008/webpack.git",
+  "author": "ghostrider070008 <ghostrider07008@yandex.ru>",
+  "license": "MIT"
+}
